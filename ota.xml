@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <potter>
+            <Filename>Nitrogen-OS-O-potter-20180418.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://potterroms.ddns.net/NitrogenOS/Nitrogen-OS-O-potter-20180418.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://del.dog/eturojosew.php</ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title="Help us with server costs."
+                description="">http://bit.ly/2HyDFrg</PaypalUrl>
+        </potter>
+    </Stable>
+</SlimOTA>
